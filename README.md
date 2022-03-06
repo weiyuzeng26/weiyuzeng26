@@ -1,26 +1,18 @@
-### Hi there, Wiwi 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, Nice to see you. </span> </h1>
 
-<!--
-**weiyuzeng26/weiyuzeng26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Weiyu 😉, Security Operation 👨🏻‍💻 from Hong Kong. I'm passionate about Linux and mostly develop in Python 🐍.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on interesting projects.
+- 🌱 I’m currently learning Japanese, Email Security
+- ⚡ Fun fact: I love cooking.
 
+### Stats Overview : :cyclone:
 
-
-### GitHub Highlights:
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=weiyuzeng26&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=material-palenight" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiyuzeng26&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
+[<img align="left" width="390" alt="🦑" src="asset/general.svg">](#)
+[<img align="right" width="390" alt="🦑" src="asset/followup.svg">](#)
+[<img align="right" width="390" alt="🦑" src="asset/achievements.svg">](#)
+[<img align="left" width="390" alt="🦑" src="asset/community.svg">](#)
+[<img align="right" width="390" alt="🦑" src="asset/people.svg">](#)
