@@ -2,9 +2,6 @@
 
 I'm Weiyu 😉, Security Operation 👨🏻‍💻 from Hong Kong. I'm passionate about Linux and mostly develop in Python 🐍.
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on interesting projects.
 - 🌱 I’m currently learning Japanese, Email Security
 - ⚡ Fun fact: I love cooking.
